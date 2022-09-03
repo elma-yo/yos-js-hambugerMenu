@@ -41,6 +41,10 @@ main {
     pointer-events: none;
 }
 
+.overlay.show {
+    opacity: 1;
+}
+
 .overlay #close {
     position: absolute;
     top: 16px;
