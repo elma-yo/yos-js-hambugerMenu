@@ -36,3 +36,11 @@ main {
     left: 0;
     background: rgba(255,255,255,0.95);
 }
+
+.overlay #close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    font-size: 32px;
+    cursor: pointer;
+}
