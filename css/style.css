@@ -35,6 +35,8 @@ main {
     right: 0;
     left: 0;
     background: rgba(255,255,255,0.95);
+    text-align: center;
+    padding: 64px;
 }
 
 .overlay #close {
