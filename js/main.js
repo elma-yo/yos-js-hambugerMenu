@@ -5,6 +5,6 @@
     const overlay = document.querySelector('.overlay');
 
     open.addEventListener('click', () => {
-
+        overlay.classList.add('show');
     });
 }
