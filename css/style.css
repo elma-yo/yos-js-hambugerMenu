@@ -113,6 +113,10 @@ main {
         text-align: center;
     }
 
+    .pc-menu a:hover {
+        background: #f2f2f2;
+    }
+
     .sp-menu {
         display: none;
     }
