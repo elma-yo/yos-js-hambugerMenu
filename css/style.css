@@ -106,6 +106,13 @@ main {
         display: flex;
     }
 
+    .pc-menu a {
+        display: block;
+        width: 80px;
+        line-height: 64px;
+        text-align: center;
+    }
+
     .sp-menu {
         display: none;
     }
