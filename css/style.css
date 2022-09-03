@@ -67,4 +67,12 @@ main {
 
 .overlay li {
     margin-top: 24px;
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity .3s, transform .3s;
+}
+
+.overlay.show li {
+    opacity: 1;
+    transform: none;
 }
