@@ -43,6 +43,7 @@ main {
 
 .overlay.show {
     opacity: 1;
+    pointer-events: auto;
 }
 
 .overlay #close {
