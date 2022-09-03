@@ -37,6 +37,8 @@ main {
     background: rgba(255,255,255,0.95);
     text-align: center;
     padding: 64px;
+    opacity: 0;
+    pointer-events: none;
 }
 
 .overlay #close {
