@@ -6,6 +6,6 @@
 
     open.addEventListener('click', () => {
         overlay.classList.add('show');
-        overlay.classList.add('hide');
+        open.classList.add('hide');
     });
 }
